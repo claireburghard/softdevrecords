@@ -20,6 +20,12 @@ FALL SEMESTER: Period 7
         on posts, and view other users' posts on a dashboard.
         https://github.com/claireburghard/blog-pd7-claire-coby-fish-david.git
         ==============
+	Project 3: APIs
+	Claire Burghard, Aida Piccato 
+	DESCRIPTION:Will probably take information from movie APIs such as RottenTomatoes and OMDb,
+	and produce information about movies users can look up.
+	https://github.com/apiccato/movie-engine.git
+	==============
     Mini Projects 
     ==============
         mongoproj
