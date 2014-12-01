@@ -6,13 +6,13 @@ Record of all assignments and projects completed in Software Development, 2014-2
 ==============
 FALL SEMESTER: Period 7
 ==============
-    Main Projects 
-    ==============
-        Project 1: Query machine 
-        Claire Burghard, Coby Goldberg, Sean Yip, Dennis Nenov
-        DESCRIPTION: A simple query answering program that allows the user to ask a "who" question
-        through a web interface and recieve an answer based on a google search. 
-        https://github.com/claireburghard/project1-claire-dennis-sean-coby.git
+##Main Projects 
+
+### Project 1: Query machine 
+#### Claire Burghard, Coby Goldberg, Sean Yip, Dennis Nenov
+#### DESCRIPTION: 
+A simple query answering program that allows the user to ask a "who" question through a web interface and recieve an answer based on a google search. 
+#### https://github.com/claireburghard/project1-claire-dennis-sean-coby.git
         ==============
         Project 2: Blog engine 
         Claire Burghard, Coby Goldberg, Fish Milnikiewicz, David Dvorkin
