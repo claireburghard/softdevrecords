@@ -13,32 +13,32 @@ FALL SEMESTER: Period 7
 #### DESCRIPTION: 
 A simple query answering program that allows the user to ask a "who" question through a web interface and recieve an answer based on a google search. 
 #### https://github.com/claireburghard/project1-claire-dennis-sean-coby.git
-        ==============
-        Project 2: Blog engine 
-        Claire Burghard, Coby Goldberg, Fish Milnikiewicz, David Dvorkin
-        DESCRIPTION: A simple blog engine that allows users to make an account, make posts, comment
-        on posts, and view other users' posts on a dashboard.
-        https://github.com/claireburghard/blog-pd7-claire-coby-fish-david.git
-        ==============
-	Project 3: APIs
-	Claire Burghard, Aida Piccato 
-	DESCRIPTION:Will probably take information from movie APIs such as RottenTomatoes and OMDb,
-	and produce information about movies users can look up.
-	https://github.com/apiccato/movie-engine.git
-	==============
-    Mini Projects 
-    ==============
-        mongoproj
-        Claire Burghard, Leslie Bresnahan 
-        7/mongoproj/leslie-claire
-        ==============
-        regexp
-        Claire Burghard, Dennis Nenov
-        7/regexp/claire_dennis
-        ==============
-        intro-proj 1
-        Claire Burghard (did not have a partner) 
-        7/intro-proj1/Claire
+
+### Project 2: Blog engine 
+#### Claire Burghard, Coby Goldberg, Fish Milnikiewicz, David Dvorkin
+#### DESCRIPTION: 
+A simple blog engine that allows users to make an account, make posts, comment on posts, and view other users' posts on a dashboard.
+#### https://github.com/claireburghard/blog-pd7-claire-coby-fish-david.git
+
+###Project 3: APIs
+####Claire Burghard, Aida Piccato 
+####DESCRIPTION:
+Will Takes information from OMDb and produces an interface from which users can search interests and explore movies that are related to those interests. 
+####https://github.com/apiccato/movie-engine.git
+
+##Mini Projects 
+
+* mongoproj
+  * Claire Burghard, Leslie Bresnahan 
+  * 7/mongoproj/leslie-claire
+        
+* regexp
+  * Claire Burghard, Dennis Nenov
+  * 7/regexp/claire_dennis
+
+* intro-proj 1
+  * Claire Burghard (did not have a partner) 
+  * 7/intro-proj1/Claire
 
 
 
