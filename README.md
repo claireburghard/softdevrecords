@@ -31,7 +31,7 @@ Will Takes information from OMDb and produces an interface from which users can 
 ####DESCRIPTION:
 A website where users can post homework assignments, get help from their peers, and help their peers with their homework. 
 ####https://github.com/crabalockerfishwife/semester-one-project
-####You can find the website here: http://hwelper.info.tm/
+####You can find the website here: http://hwelpr.info.tm/
 ####And our youtube video here: https://www.youtube.com/watch?v=vWpNXDupzRw
 
 ##Mini Projects 
