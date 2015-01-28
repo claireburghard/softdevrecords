@@ -26,6 +26,14 @@ A simple blog engine that allows users to make an account, make posts, comment o
 Will Takes information from OMDb and produces an interface from which users can search interests and explore movies that are related to those interests. 
 ####https://github.com/apiccato/movie-engine.git
 
+###Semester 1 Final Project: HWelpr
+####Claire Burghard, Fish Milnikiewicz, Veronika Azzara, Nadia 
+####DESCRIPTION:
+A website where users can post homework assignments, get help from their peers, and help their peers with their homework. 
+####https://github.com/crabalockerfishwife/semester-one-project
+####You can find the website here: http://hwelper.info.tm/
+####And our youtube video here: https://www.youtube.com/watch?v=vWpNXDupzRw
+
 ##Mini Projects 
 
 * mongoproj
